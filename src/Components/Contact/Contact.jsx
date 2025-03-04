@@ -5,7 +5,7 @@ import { FaEnvelope, FaLinkedin, FaGithub } from "react-icons/fa";
 
 const Contact = () => {
   useEffect(() => {
-    AOS.init({ duration: 1000, once: true }); // يمنع إعادة تشغيل الأنيميشن عند النزول
+    AOS.init({ duration: 1000, once: true });
   }, []);
 
   return (
