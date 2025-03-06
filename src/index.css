@@ -2,5 +2,5 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 body {
-    overflow: hidden;
+    overflow-x: hidden;
 }
