@@ -40,14 +40,14 @@ const AboutMe = () => {
             <h2 className="text-5xl font-bold text-white mb-6">Who Am I?</h2>
             <p className="text-2xl text-gray-300 leading-relaxed">
               I'm <span className="text-[#0097b2] font-semibold">Lamiaa Elewa</span>,  
-              a <span className="text-[#0097b2] font-semibold">Front-end Developer</span>  
+              a <span className="text-[#0097b2] font-semibold">Front-end Developer </span>  
               specializing in <span className="text-[#0097b2] font-semibold">React.js</span>.  
               I’m passionate about crafting smooth and engaging web experiences that are  
               both visually appealing and highly functional.
             </p>
 
             <p className="text-2xl text-gray-300 leading-relaxed mt-6">
-              I am a <span className="text-[#0097b2] font-semibold">Computer Science student</span>  
+              I am a <span className="text-[#0097b2] font-semibold">Computer Science student </span>  
               with a deep enthusiasm for technology. My passion extends beyond frontend development  
               to <span className="text-[#0097b2] font-semibold">UI/UX design, networking, and cybersecurity</span>.  
               I enjoy exploring different aspects of technology and continuously expanding my skill set  
