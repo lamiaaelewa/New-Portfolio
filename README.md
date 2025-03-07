@@ -33,3 +33,20 @@ npm install
 
 # 4️⃣ Start the development server
 npm run dev
+
+  ---
+
+## Features
+- User authentication with Firebase.
+- Product listing and filtering.
+- Shopping cart functionality with Redux.
+- Secure payment integration using Stripe.
+- Responsive design with Tailwind CSS.
+- Smooth animations and UI transitions.
+
+## Contact
+For any questions or feedback, feel free to reach out:
+
+- Email: [lamiaaelewa38@gmail.com](mailto:lamiaaelewa38@gmail.com)
+- GitHub: [https://github.com/lamiaaelewa](https://github.com/lamiaaelewa)
+- LinkedIn: [https://www.linkedin.com/in/lamiaa-elewa-1a6b862a7/](https://www.linkedin.com/in/lamiaa-elewa-1a6b862a7/)
