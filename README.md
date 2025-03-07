@@ -33,8 +33,7 @@ npm install
 
 # 4️⃣ Start the development server
 npm run dev
-
-  ---
+   ```
 
 ## Features
 - User authentication with Firebase.
