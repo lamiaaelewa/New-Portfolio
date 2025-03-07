@@ -1,11 +1,11 @@
 # 🌟 Lamiaa Elewa's Portfolio
 
-Welcome to my personal portfolio! 🚀  
+Welcome to my personal portfolio!  
 This project showcases my skills, projects, and experience as a **Front-end Developer (React.js)**.  
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+)
 - **Animations:** AOS (Animate On Scroll)
 - **Version Control:** Git, GitHub
@@ -13,7 +13,7 @@ This project showcases my skills, projects, and experience as a **Front-end Deve
 
 ---
 
-## 🌍 Live Demo
+##  Live Demo
 🔗 [Visit My Portfolio](https://lamiaaelewa.github.io/New-Portfolio/)  
 
 ---
