@@ -59,7 +59,7 @@ const LatestProjects = () => {
 
         {/* React.js Projects Section */}
         <div data-aos="fade-up">
-          <h3 className="text-4xl font-semibold text-white mb-10">React.js Projects</h3>
+          <h3 className="text-4xl font-semibold text-white mb-20">React.js Projects</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 mb-20">
             {reactProjects.map((project, index) => (
               <div
